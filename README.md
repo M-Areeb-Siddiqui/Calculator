@@ -1,1 +1,1 @@
-"# paradox-calculator" 
+"# paradox_simple_calculator" 
